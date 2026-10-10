@@ -1,0 +1,11 @@
+{
+  "org": "jazzband",
+  "repo": "django-user-sessions",
+  "versions": [
+    {
+      "commit": "527f91e83e61d240d6bba6e20d460cc515a52dbb",
+      "tag": "",
+      "parsed_at": "2026-10-10T19:44:10.648099+00:00"
+    }
+  ]
+}
